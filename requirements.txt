@@ -1,0 +1,14 @@
+geopandas
+pandas
+numpy
+statsmodels
+patsy
+matplotlib
+seaborn
+scipy
+networkx
+shapely
+contextily
+libpysal
+esda
+spreg
